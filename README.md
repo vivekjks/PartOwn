@@ -14,10 +14,7 @@
 ---
 
 
-
-live web URL-https://partown.vercel.app
  
-demo video - https://youtu.be/dS_V36sJJO8
 
 
 ## 📖 What is PartOwn?
