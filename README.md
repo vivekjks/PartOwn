@@ -112,11 +112,7 @@ Reserve time slots through our AI-powered scheduler. Check-in with photos, use t
 - Google Gemini API key
 - MetaMask or compatible Web3 wallet
 
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/yourusername/partown-app.git
-cd partown-app
-```
+ 
 
 ### **2. Install Dependencies**
 ```bash
