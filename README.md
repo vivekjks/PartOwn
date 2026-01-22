@@ -14,8 +14,6 @@
 ---
 
 
- 
-
 
 ## 📖 What is PartOwn?
 
